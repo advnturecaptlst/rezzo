@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>rezzo-57.png</string>
+				<string>rezzo-114.png</string>
+				<string>rezzo-72.png</string>
+				<string>rezzo-144.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>edu.self.${PRODUCT_NAME:rfc1034identifier}</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.7</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>Regions</key>
+	<array>
+		<string>Arusha	
+Dar es Salaam
+Dodoma	
+Geita	
+Iringa	
+Kagera	
+Katavi	
+Kigoma	
+Kilimanjaro
+Lindi	
+Manyara	
+Mara	
+Mbeya	
+Morogoro
+Mtwara	
+Mwanza	
+Njombe	
+Pemba North
+Pemba South
+Pwani	
+Rukwa	
+Ruvuma	
+Shinyanga
+Simiyu	
+Singida	
+Tabora	
+Tanga	
+Zanzibar Central/South
+</string>
+		<string>Dar es Salaam</string>
+		<string>Dodoma</string>
+		<string>Geita</string>
+		<string>Iringa</string>
+		<string>Kagera</string>
+		<string>Katavi</string>
+		<string>Kigoma</string>
+		<string>Kilimanjaro</string>
+		<string>Lindi</string>
+		<string>Manyara</string>
+		<string>Mara</string>
+		<string>Mbeya</string>
+		<string>Morogoro</string>
+		<string>Mtwara</string>
+		<string>Mwanza</string>
+		<string>Njombe</string>
+		<string>Pemba North</string>
+		<string>Pemba South</string>
+		<string>Pwani</string>
+		<string>Rukwa</string>
+		<string>Ruvuma</string>
+		<string>Shinyanga</string>
+		<string>Simiyu</string>
+		<string>Singida</string>
+		<string>Tabora</string>
+		<string>Tanga</string>
+		<string>Zanzibar Central/South</string>
+		<string>Zanzibar North</string>
+		<string>Zanzibar Urban/West</string>
+	</array>
+	<key>Resources</key>
+	<dict>
+		<key>Infrastructure Resources</key>
+		<array>
+			<string>School</string>
+			<string>Hospital</string>
+			<string>Health Center</string>
+			<string>Police Station</string>
+			<string>Computer Lab</string>
+			<string>Seed Bank</string>
+			<string>Transportation Hub</string>
+			<string>Garden</string>
+			<string>Corner Store</string>
+			<string>Church</string>
+			<string>Mosque</string>
+		</array>
+		<key>Natural Resources</key>
+		<array>
+			<string>Water Supply</string>
+			<string>Plantation</string>
+			<string>Hydropower</string>
+			<string>Solar Power</string>
+			<string>Sand</string>
+			<string>Clay</string>
+			<string>Fish</string>
+		</array>
+		<key>Skilled Resources</key>
+		<array>
+			<string>Doctor</string>
+			<string>Nurse</string>
+			<string>Carpenter</string>
+			<string>Metal Worker</string>
+			<string>Farmer</string>
+			<string>Teacher</string>
+			<string>NGO Office</string>
+			<string>Well Digger</string>
+		</array>
+	</dict>
+	<key>UIMainStoryboardFile</key>
+	<string>MainStoryboard_iPhone</string>
+	<key>UIMainStoryboardFile~ipad</key>
+	<string>MainStoryboard_iPad</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIStatusBarTintParameters</key>
+	<dict>
+		<key>UINavigationBar</key>
+		<dict>
+			<key>Style</key>
+			<string>UIBarStyleDefault</string>
+			<key>Translucent</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
